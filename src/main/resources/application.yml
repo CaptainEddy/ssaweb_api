@@ -1,0 +1,6 @@
+server:  port: 8959
+
+Spring:  
+  mvc:
+   pathmatch:
+      matching-strategy: ant-path-matcher
